@@ -5,7 +5,7 @@
 ## :heavy_check_mark: Features
 * Snappy provides an interactive UI where people can communicate with each other seamlessly.
 * It provides instant communication functionality between users
-* And the users can receive messages instantly while online and still be able to see the messages sent while they are offline. 
+* And the users can receive messages instantly while online and still be able to see all the messages sent while they are offline. 
 * User Authentication and JWT for authorisation(controlling access to certain resources) .
 
 ## :heavy_check_mark:Technologies used: 
