@@ -9,7 +9,7 @@
 * User Authentication and JWT for authorisation(controlling access to certain resources) .
 
 ## :heavy_check_mark:Technologies used: 
-*Javascript, ReactJS, NodeJs, Express, MongoDB
+*Javascript, ReactJS, NodeJS, Express, MongoDB
 
 ## :handshake: Contribution
 Contributions are always welcomed, here is what you need to do:
