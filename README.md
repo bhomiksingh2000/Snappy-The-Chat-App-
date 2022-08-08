@@ -16,12 +16,14 @@ Contributions are always welcomed, here is what you need to do:
 1. Work on an existing issue or create a new one [here](https://github.com/bhomiksingh2000/Leetcode_Ext/issues)
 2. Create a pull request linked to that issue
 
+# Steps to Start the App
 
-Know more about [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
-## :earth_asia: Development Env Tools
-* Mozilla Firefox 83.0
-* Google Chrome 87.0
-
+# Install the Public Dependencies
+# Install the Server Dependencies
+# In the Server Directory there's a .env file. Change the value of mongodb inside the file. Set the value as your mongodb connection url.
+# Now start the server by yarn start
+# Now start the react by yarn start
+# And the chat application would be running successfully by now.
 
 ## :clipboard: License
 MIT © <a href = "https://www.linkedin.com/in/bhomik-singh-a8a69b202/" target="_blank">Bhomik Singh</a>
