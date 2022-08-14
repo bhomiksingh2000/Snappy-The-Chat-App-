@@ -22,7 +22,7 @@ mongoose.connect(process.env.MONGO_URL,{
 }).catch((err)=>{
     console.log(err.message)
 })
-
+// hi
 const server = app.listen(process.env.PORT,()=> {
     console.log(`Server started on Port ${process.env.PORT}`)
 })
