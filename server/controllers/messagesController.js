@@ -34,3 +34,4 @@ module.exports.getAllMessage = async (req,res,next) => {
         next(ex)
     }
 }
+// js
